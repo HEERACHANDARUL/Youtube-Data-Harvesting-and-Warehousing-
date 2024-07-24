@@ -16,11 +16,11 @@ and audience engagement.
 
 # Brief Overview:
 
-** YouTube Data Extraction:**
+**YouTube Data Extraction:**
   Harnessing the YouTube Data API, this project extracts a diverse range of data, including video details, 
   channel statistics, and audience metrics. Python scripts are utilized to retrieve this data efficiently.
 
-** PostgreSQL and MongoDB Data Storage:**
+**PostgreSQL and MongoDB Data Storage:**
   The harvested YouTube data is stored in both PostgreSQL and MongoDB databases, leveraging the strengths of 
   structured and unstructured data storage paradigms. PostgreSQL ensures structured storage for relational data,
   while MongoDB serves as a flexible repository for unstructured data.
