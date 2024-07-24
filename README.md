@@ -16,26 +16,28 @@ and audience engagement.
 
 # Brief Overview:
 
-**YouTube Data Extraction:**
+*YouTube Data Extraction:*
+
   Harnessing the YouTube Data API, this project extracts a diverse range of data, including video details, 
   channel statistics, and audience metrics. Python scripts are utilized to retrieve this data efficiently.
 
-**PostgreSQL and MongoDB Data Storage:**
+*PostgreSQL and MongoDB Data Storage:*
+
   The harvested YouTube data is stored in both PostgreSQL and MongoDB databases, leveraging the strengths of 
   structured and unstructured data storage paradigms. PostgreSQL ensures structured storage for relational data,
   while MongoDB serves as a flexible repository for unstructured data.
 
-** Streamlit Application Development: ** 
+*Streamlit Application Development:* 
   Using Streamlit, a web-based application is developed to provide users with an intuitive interface for exploring 
   and analyzing the stored YouTube data. The application offers interactive visualizations and querying capabilities
   to facilitate data-driven decision-making.
 
-** Integration and Automation:** 
+*Integration and Automation:* 
   The entire process, from data extraction to presentation, is automated to ensure seamless operation. 
   Scheduled data extraction tasks ensure that the databases are regularly updated with the latest YouTube data, 
   providing users with up-to-date insights.
 
-** User Empowerment:**
+*User Empowerment:*
   Through the Streamlit application, users gain access to a plethora of analytics tools and visualizations, 
   enabling them to delve into channel performance metrics, video trends, audience demographics, and engagement patterns. 
   This empowers content creators, marketers, and analysts to optimize their strategies and maximize their reach on the YouTube platform.
